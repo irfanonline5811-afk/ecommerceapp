@@ -6,9 +6,13 @@ A modern, responsive E-Commerce application built with **Flutter**, featuring a 
 
 ## 📸 App Screenshots
 
-| Home Screen | Men's Clothing | Electronics | Jewelery |
-| :---: | :---: | :---: | :---: |
-| <img src="screenshots/home_screen.png" width="220" alt="Home Screen"/> | <img src="screenshots/mens_clothing_category.png" width="220" alt="Men's Clothing"/> | <img src="screenshots/electronics_category.png" width="220" alt="Electronics"/> | <img src="screenshots/jewelery_category.png" width="220" alt="Jewelery"/> |
+| Home Screen | Categories List | Men's Clothing |
+| :---: | :---: | :---: |
+| <img src="screenshots/home_screen.png" width="230" alt="Home Screen"/> | <img src="screenshots/categories_screen.png" width="230" alt="Categories List"/> | <img src="screenshots/mens_clothing_category.png" width="230" alt="Men's Clothing"/> |
+
+| Women's Clothing | Electronics | Jewelery |
+| :---: | :---: | :---: |
+| <img src="screenshots/womens_clothing_category.png" width="230" alt="Women's Clothing"/> | <img src="screenshots/electronics_category.png" width="230" alt="Electronics"/> | <img src="screenshots/jewelery_category.png" width="230" alt="Jewelery"/> |
 
 ---
 
