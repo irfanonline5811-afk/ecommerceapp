@@ -63,12 +63,15 @@ ecommerceapp/
 │   ├── services/
 │   │   └── product_service.dart     # FakeStore API client & Firebase Firestore/Storage services
 │   │
-│   ├── pages/
-│   │   ├── home_page.dart           # Home catalog with combined API & Firestore Stream
-│   │   ├── category_page.dart       # Categories list view
-│   │   ├── products_by_category_page.dart # Category-filtered products
-│   │   ├── product_detail_page.dart # Product details, update & delete
-│   │   └── add_product_page.dart    # Add product form with image picker
+│   ├── viewmodels/
+│   │   └── product_view_model.dart  # Business logic & state management
+│   │
+│   ├── views/
+│   │   ├── home_view.dart           # Home catalog with combined API & Firestore Stream
+│   │   ├── category_view.dart       # Categories list view
+│   │   ├── products_by_category_view.dart # Category-filtered products
+│   │   ├── product_detail_view.dart # Product details, update & delete
+│   │   └── add_product_view.dart    # Add product form with image picker
 │   │
 │   └── widgets/
 │       └── product_card.dart        # Reusable product grid card component
