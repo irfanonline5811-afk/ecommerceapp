@@ -4,6 +4,14 @@ A modern, responsive E-Commerce application built with **Flutter**, featuring a 
 
 ---
 
+## 📸 App Screenshots
+
+| Home Screen | Men's Clothing | Electronics | Jewelery |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/home_screen.png" width="220" alt="Home Screen"/> | <img src="screenshots/mens_clothing_category.png" width="220" alt="Men's Clothing"/> | <img src="screenshots/electronics_category.png" width="220" alt="Electronics"/> | <img src="screenshots/jewelery_category.png" width="220" alt="Jewelery"/> |
+
+---
+
 ## 📱 Features
 
 - **🛍️ Dynamic Product Catalog (Home Screen)**
